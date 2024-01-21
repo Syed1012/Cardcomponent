@@ -1,0 +1,22 @@
+.card{
+  border: 1px solid rgb(199, 198, 198);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(199, 198, 198, 0.707);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.CardImg{
+  max-width: 50%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(212, 6, 6, 0.527);
+}
+
+.card .CardTitle{
+  font-size: xx-large;
+  font-weight: bolder;
+}
